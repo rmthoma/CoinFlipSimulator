@@ -1,0 +1,6 @@
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\MultipleDiceRollSimulator\MultipleDiceRollSimulator\bin\Debug\MultipleDiceRollSimulator.exe.config
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\MultipleDiceRollSimulator\MultipleDiceRollSimulator\bin\Debug\MultipleDiceRollSimulator.exe
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\MultipleDiceRollSimulator\MultipleDiceRollSimulator\bin\Debug\MultipleDiceRollSimulator.pdb
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\MultipleDiceRollSimulator\MultipleDiceRollSimulator\obj\Debug\MultipleDiceRollSimulator.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\MultipleDiceRollSimulator\MultipleDiceRollSimulator\obj\Debug\MultipleDiceRollSimulator.exe
+C:\Users\Ryan\Documents\Visual Studio 2013\Projects\MultipleDiceRollSimulator\MultipleDiceRollSimulator\obj\Debug\MultipleDiceRollSimulator.pdb
